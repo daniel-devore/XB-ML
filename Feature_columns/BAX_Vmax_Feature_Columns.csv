@@ -1,0 +1,6 @@
+,BACl,BABr,BAI,BAAt,BAX
+col1,R$^{donor}_{C-X}$,$\Delta$R$_{C-X}$,k$^{a}$$^{complex}$$_{C-X}$,R$^{complex}_{C-X}$,$\rho^{BCP}$
+col2,E$_{bind}$,H(r)$^{BCP}$,$\rho^{BCP}$,E$_{int}$,$\nabla^{2} \rho^{BCP}$
+col3,E$^{CP}_{int}$,E$_{bind}$,E$^{CP}_{int}$,E$_{bind}$,E$^{CP}_{int}$
+col4,E$^{CP}_{bind}$,E$^{CP}_{int}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$
+col5,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$

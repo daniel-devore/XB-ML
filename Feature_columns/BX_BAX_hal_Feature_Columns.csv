@@ -1,0 +1,6 @@
+,BX,BAX
+col1,R$^{complex}_{C-X}$,$\nabla^{2} \rho^{BCP}$
+col2,$\mu_{X\cdots N}$,H(r)$^{BCP}$
+col3,E$^{donor}_{def}$,E$^{CP}_{int}$
+col4,E$^{NH_3}_{def}$,E$^{CP}_{bind}$
+col5,$\Delta \rho$,E$^{donor}_{def}$

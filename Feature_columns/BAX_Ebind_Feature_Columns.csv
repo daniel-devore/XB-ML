@@ -1,0 +1,6 @@
+,BACl,BABr,BAI,BAAt,BAX
+col1,V$_{max}$(r),V$_{S}$$_{max}$,V$_{max}$(r),V$_{S}$$_{max}$,V$_{S}$$_{max}$
+col2,$\Delta$k$^{a}_{C-X}$,R$_{X\cdots N}$,G(r)$^{BCP}$,$\Delta$R$_{C-X}$,R$_{X\cdots N}$
+col3,G(r)$^{BCP}$,$\rho^{BCP}$,K(r)$^{BCP}$,K(r)$^{BCP}$,$\rho^{BCP}$
+col4,V(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$,H(r)$^{BCP}$,H(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$
+col5,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$

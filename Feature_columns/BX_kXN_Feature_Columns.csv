@@ -1,0 +1,6 @@
+,BCl,BBr,BI,BAt,BX
+col1,R$_{X\cdots N}$,V(r)$^{BCP}$,R$_{X\cdots N}$,V$_{max}$(r),$\rho^{BCP}$
+col2,$\rho^{BCP}$,sign$\lambda_{2}* \rho$,$\rho^{BCP}$,R$_{X\cdots N}$,G(r)$^{BCP}$
+col3,V(r)$^{BCP}$,E$_{int}$,V(r)$^{BCP}$,$\rho^{BCP}$,V(r)$^{BCP}$
+col4,E$_{bind}$,E$^{CP}_{bind}$,sign$\lambda_{2}* \rho$,V(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$
+col5,$\Delta \rho$,$\Delta \rho$,E$_{int}$,$\Delta \rho$,sign$\lambda_{2}* \rho$
