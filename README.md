@@ -1,4 +1,4 @@
-# Data_and_Molecular_Fingerprint_Driven_Machine_Learning_of_Halogen_Bonds
+# Data_and_Molecular_Fingerprint_Driven_Machine_Learning_Approaches_to_Halogen_Bonds
 
 The following depository contains the code, figures, and data for the article 
 produced by Daniel P. Devore and Kevin L. Shuford, "" {Enter Journal Name Here} 
