@@ -1,6 +1,6 @@
 ,BCl,BBr,BI,BAt,BX
-col1,R$^{complex}_{C-X}$,E$_{int}$,k$^{a}$$^{complex}$$_{C-X}$,H(r)$^{BCP}$,H(r)$^{BCP}$
-col2,k$^{a}_{X\cdots N}$,E$_{bind}$,k$^{a}_{X\cdots N}$,E$_{bind}$,E$_{bind}$
+col1,R$^{complex}_{C-X}$,K(r)$^{BCP}$,k$^{a}$$^{complex}$$_{C-X}$,K(r)$^{BCP}$,K(r)$^{BCP}$
+col2,$\Delta$R$_{C-X}$,E$_{bind}$,k$^{a}_{X\cdots N}$,E$_{bind}$,E$_{bind}$
 col3,E$^{CP}_{int}$,E$^{CP}_{int}$,E$_{bind}$,E$^{CP}_{int}$,E$^{CP}_{int}$
-col4,E$^{CP}_{bind}$,E$^{donor}_{def}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$
+col4,E$^{CP}_{bind}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$
 col5,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$

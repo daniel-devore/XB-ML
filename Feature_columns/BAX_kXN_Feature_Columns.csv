@@ -1,6 +1,6 @@
 ,BACl,BABr,BAI,BAAt,BAX
-col1,V$_{max}$(r),k$^{a}$$^{donor}$$_{C-X}$,V$_{max}$(r),V$_{max}$(r),k$^{a}$$^{complex}$$_{C-X}$
-col2,R$_{X\cdots N}$,$\rho^{BCP}$,$\Delta$k$^{a}_{C-X}$,k$^{a}$$^{complex}$$_{C-X}$,$\Delta$k$^{a}_{C-X}$
-col3,V(r)$^{BCP}$,G(r)$^{BCP}$,G(r)$^{BCP}$,$\Delta$k$^{a}_{C-X}$,G(r)$^{BCP}$
-col4,$\nabla^{2} \rho^{BCP}$,$\nabla^{2} \rho^{BCP}$,V(r)$^{BCP}$,G(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$
-col5,sign$\lambda_{2}* \rho$,E$^{CP}_{int}$,$\nabla^{2} \rho^{BCP}$,$\nabla^{2} \rho^{BCP}$,E$^{CP}_{int}$
+col1,V$_{max}$(r),k$^{a}$$^{donor}$$_{C-X}$,V$_{max}$(r),$\Delta$R$_{C-X}$,k$^{a}$$^{complex}$$_{C-X}$
+col2,R$_{X\cdots N}$,R$_{X\cdots N}$,$\Delta$k$^{a}_{C-X}$,$\Delta$k$^{a}_{C-X}$,$\Delta$k$^{a}_{C-X}$
+col3,G(r)$^{BCP}$,G(r)$^{BCP}$,R$_{X\cdots N}$,R$_{X\cdots N}$,$\rho^{BCP}$
+col4,V(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$,K(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$,G(r)$^{BCP}$
+col5,$\nabla^{2} \rho^{BCP}$,E$^{CP}_{bind}$,V(r)$^{BCP}$,E$_{bind}$,$\nabla^{2} \rho^{BCP}$
