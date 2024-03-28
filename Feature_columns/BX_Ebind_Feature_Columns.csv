@@ -1,6 +1,6 @@
 ,BCl,BBr,BI,BAt,BX
 col1,V$_{S}$$_{max}$,V$_{S}$$_{max}$,V$_{S}$$_{max}$,V$_{S}$$_{max}$,V$_{S}$$_{max}$
-col2,R$_{X\cdots N}$,k$^{a}_{X\cdots N}$,k$^{a}_{X\cdots N}$,K(r)$^{BCP}$,k$^{a}_{X\cdots N}$
-col3,k$^{a}_{X\cdots N}$,$\mu_{X\cdots N}$,$\mu_{X\cdots N}$,H(r)$^{BCP}$,$\rho^{BCP}$
-col4,V(r)$^{BCP}$,E$^{donor}_{def}$,K(r)$^{BCP}$,sign$\lambda_{2}* \rho$,$\nabla^{2} \rho^{BCP}$
-col5,$\nabla^{2} \rho^{BCP}$,$\Delta \rho$,H(r)$^{BCP}$,$\Delta \rho$,$\Delta \rho$
+col2,R$_{X\cdots N}$,$\Delta$R$_{C-X}$,k$^{a}_{X\cdots N}$,K(r)$^{BCP}$,k$^{a}_{X\cdots N}$
+col3,k$^{a}_{X\cdots N}$,k$^{a}_{X\cdots N}$,$\mu_{X\cdots N}$,H(r)$^{BCP}$,G(r)$^{BCP}$
+col4,$\rho^{BCP}$,$\mu_{X\cdots N}$,H(r)$^{BCP}$,sign$\lambda_{2}* \rho$,sign$\lambda_{2}* \rho$
+col5,G(r)$^{BCP}$,$\Delta \rho$,$\Delta \rho$,E$^{donor}_{def}$,$\Delta \rho$

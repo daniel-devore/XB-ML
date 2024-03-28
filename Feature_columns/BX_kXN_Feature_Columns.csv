@@ -1,6 +1,6 @@
 ,BCl,BBr,BI,BAt,BX
-col1,R$_{X\cdots N}$,$\rho^{BCP}$,$\rho^{BCP}$,$\rho^{BCP}$,R$^{complex}_{C-X}$
-col2,$\rho^{BCP}$,V(r)$^{BCP}$,K(r)$^{BCP}$,V(r)$^{BCP}$,G(r)$^{BCP}$
-col3,V(r)$^{BCP}$,sign$\lambda_{2}* \rho$,V(r)$^{BCP}$,RDG,V(r)$^{BCP}$
-col4,sign$\lambda_{2}* \rho$,E$_{int}$,sign$\lambda_{2}* \rho$,sign$\lambda_{2}* \rho$,$\nabla^{2} \rho^{BCP}$
+col1,R$^{complex}_{C-X}$,V(r)$^{BCP}$,V$_{max}$(r),V$_{max}$(r),R$^{complex}_{C-X}$
+col2,R$_{X\cdots N}$,sign$\lambda_{2}* \rho$,$\rho^{BCP}$,R$_{X\cdots N}$,G(r)$^{BCP}$
+col3,$\rho^{BCP}$,E$_{int}$,sign$\lambda_{2}* \rho$,$\rho^{BCP}$,V(r)$^{BCP}$
+col4,V(r)$^{BCP}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$,sign$\lambda_{2}* \rho$,$\nabla^{2} \rho^{BCP}$
 col5,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,sign$\lambda_{2}* \rho$

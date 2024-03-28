@@ -1,6 +1,6 @@
 ,BACl,BABr,BAI,BAAt,BAX
-col1,V$_{max}$(r),V$_{S}$$_{max}$,V$_{max}$(r),V$_{S}$$_{max}$,V$_{S}$$_{max}$
-col2,$\Delta$k$^{a}_{C-X}$,R$_{X\cdots N}$,$\rho^{BCP}$,$\Delta$R$_{C-X}$,V$_{max}$(r)
-col3,R$_{X\cdots N}$,$\rho^{BCP}$,K(r)$^{BCP}$,K(r)$^{BCP}$,$\rho^{BCP}$
-col4,G(r)$^{BCP}$,V(r)$^{BCP}$,$\nabla^{2} \rho^{BCP}$,sign$\lambda_{2}* \rho$,V(r)$^{BCP}$
+col1,V$_{max}$(r),V$_{S}$$_{max}$,V$_{max}$(r),$\Delta$R$_{C-X}$,V$_{S}$$_{max}$
+col2,$\Delta$k$^{a}_{C-X}$,$\Delta$k$^{a}_{C-X}$,$\rho^{BCP}$,R$_{X\cdots N}$,R$_{X\cdots N}$
+col3,R$_{X\cdots N}$,$\nabla^{2} \rho^{BCP}$,K(r)$^{BCP}$,$\rho^{BCP}$,$\rho^{BCP}$
+col4,G(r)$^{BCP}$,sign$\lambda_{2}* \rho$,$\nabla^{2} \rho^{BCP}$,K(r)$^{BCP}$,G(r)$^{BCP}$
 col5,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$,$\Delta \rho$
