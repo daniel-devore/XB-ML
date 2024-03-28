@@ -1,6 +1,6 @@
 ,BX,BAX
-col1,R$^{complex}_{C-X}$,K(r)$^{BCP}$
-col2,$\mu_{X\cdots N}$,$\nabla^{2} \rho^{BCP}$
-col3,E$^{donor}_{def}$,E$^{donor}_{def}$
-col4,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$
-col5,$\Delta \rho$,$\Delta \rho$
+col1,R$^{complex}_{C-X}$,k$^{a}_{X\cdots N}$
+col2,sign$\lambda_{2}* \rho$,sign$\lambda_{2}* \rho$
+col3,E$_{bind}$,E$^{donor}_{def}$
+col4,E$^{donor}_{def}$,E$^{NH_3}_{def}$
+col5,E$^{NH_3}_{def}$,$\Delta \rho$

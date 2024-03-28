@@ -1,6 +1,6 @@
 ,BACl,BABr,BAI,BAAt,BAX
-col1,R$^{complex}_{C-X}$,k$^{a}$$^{complex}$$_{C-X}$,V$_{max}$(r),R$^{complex}_{C-X}$,$\rho^{BCP}$
-col2,E$_{bind}$,E$_{bind}$,k$^{a}$$^{complex}$$_{C-X}$,E$_{int}$,$\nabla^{2} \rho^{BCP}$
-col3,E$^{CP}_{int}$,E$^{CP}_{int}$,E$_{bind}$,E$_{bind}$,E$^{CP}_{int}$
-col4,E$^{CP}_{bind}$,E$^{donor}_{def}$,E$^{CP}_{int}$,E$^{CP}_{bind}$,E$^{CP}_{bind}$
-col5,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{CP}_{bind}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$
+col1,$\Delta$k$^{a}_{C-X}$,H(r)$^{BCP}$,k$^{a}$$^{complex}$$_{C-X}$,R$^{complex}_{C-X}$,$\Delta$k$^{a}_{C-X}$
+col2,V(r)$^{BCP}$,E$_{bind}$,K(r)$^{BCP}$,$\Delta$R$_{C-X}$,$\rho^{BCP}$
+col3,E$_{bind}$,E$^{donor}_{def}$,E$_{bind}$,k$^{a}$$^{complex}$$_{C-X}$,$\nabla^{2} \rho^{BCP}$
+col4,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{donor}_{def}$,E$_{bind}$,E$_{bind}$
+col5,$\Delta \rho$,$\Delta \rho$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$,E$^{NH_3}_{def}$
