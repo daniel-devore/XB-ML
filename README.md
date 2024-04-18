@@ -2,8 +2,7 @@
 
 The following depository contains the code, figures, and data for the article 
 produced by Daniel P. Devore and Kevin L. Shuford, "Data and Molecular Fingerprint Driven Machine Learning 
-Approaches to Halogen Bonding" {Enter Journal Name Here} 
-DOI: {Enter DOI Here}.
+Approaches to Halogen Bonding" 
 
 The python code for the machine learning approach for predicting the magnitude of the $\sigma$-hole (V$_{S,Max}$), 
 binding energy (E$_{bind}$), and the X$\cdots$N local force constant (k$^{a}_{X\cdots N}$) 
