@@ -7,7 +7,7 @@ Approaches to Halogen Bonding"
 The python code for the machine learning approach for predicting the magnitude of the $\sigma$-hole (V$_{S,Max}$), 
 binding energy (E$_{bind}$), and the X$\cdots$N local force constant (k$^{a}_{X\cdots N}$) 
 by the molecular fingerprints and previously obtained data from the published articles by Daniel P. Devore, 
-Thomas L. Ellington, and Kevin L. Shuford (DOI: 10.1021/acs.jpca.3c06894 and DOI_HERE)
+Thomas L. Ellington, and Kevin L. Shuford (DOI: 10.1021/acs.jpca.3c06894)
 is provided in the jupyter notebook.
 
 The Data folder contains the Data implemented into the machine learning algorithms. The Feature_columns 
